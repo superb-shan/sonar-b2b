@@ -1,0 +1,23 @@
+{
+    "Safety Box" : {
+        "Emergency Fund" : [
+            {
+                "name" : "Kotak Arbitrage Fund",
+                "sip" : "10,000",
+                "lumpsum" : "5,000"
+            }
+        ],
+        "Health Insurance" : [
+            {
+                "name" : "Kotak Arbitrage Fund",
+                "cover" : "10L",
+                "perYear" : "15,000"
+            },
+            {
+                "name" : "HDFC Ergo Term Plan",
+                "cover" : "1 cr",
+                "perYear" : "15,000"
+            }
+        ]
+    }
+}

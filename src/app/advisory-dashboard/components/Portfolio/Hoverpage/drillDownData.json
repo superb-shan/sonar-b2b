@@ -1,0 +1,631 @@
+{
+    "AUM" : {
+        "Equity" : {
+            "Equity - Low Volatility" : [
+                {
+                    "name": "Motilal Oswal S&P BSE Low Volatility Index Fund-Reg(G)",
+                    "rating" : 0,
+                    "amount" : 147628,
+                    "exp": 4.34
+                },
+                {
+                    "name": "Motilal Oswal S&P BSE Low Volatility Index Fund-Reg(G)",
+                    "rating" : 2,
+                    "amount" : 147628,
+                    "exp": 4.34
+                }
+            ],
+            "Hybrid - Aggressive Hybrid Fund" : [
+                {
+                    "name": "Canara Rob Equity Hybrid Fund-Reg(G)",
+                    "rating": 4,
+                    "amount": 109721,
+                    "exp": 3.22
+                }
+            ],
+            "Equity - Blend" : [
+                {
+                  "name": "Mirae Asset Tax Saver Fund-Reg(G)",
+                  "rating": 5,
+                  "amount": 779731,
+                  "exp": 22.91
+                },
+                {
+                  "name": "ICICI Pru LT Equity Fund (Tax Saving)(G)",
+                  "rating": 3,
+                  "amount": 129417,
+                  "exp": 3.80
+                },
+                {
+                  "name": "Nippon India Index Fund-Nifty 50 Plan(G)",
+                  "rating": 3,
+                  "amount": 213868,
+                  "exp": 6.28
+                },
+                {
+                  "name": "Union Flexi Cap Fund-Reg(G)",
+                  "rating": 3,
+                  "amount": 173779,
+                  "exp": 5.11
+                },
+                {
+                  "name": "Aditya Birla SL Flexi Cap Fund(G)",
+                  "rating": 3,
+                  "amount": 38758,
+                  "exp": 1.14
+                },
+                {
+                  "name": "Invesco India Tax Plan(G)",
+                  "rating": 2,
+                  "amount": 254520,
+                  "exp": 7.48
+                },
+                {
+                  "name": "Sundaram Large and Mid Cap Fund(G)",
+                  "rating": 3,
+                  "amount": 217407,
+                  "exp": 6.39
+                },
+                {
+                  "name": "Parag Parikh Flexi Cap Fund-Reg(G)",
+                  "rating": 5,
+                  "amount": 171322,
+                  "exp": 5.03
+                },
+                {
+                  "name": "ICICI Pru Large & Mid Cap Fund(IDCW)",
+                  "rating": 1,
+                  "amount": 115597,
+                  "exp": 3.40
+                }
+            ],
+            "Equity - Mid/Small" : [
+                {
+                    "name": "Axis Midcap Fund-Reg(G)",
+                    "rating": 5,
+                    "amount": 304927,
+                    "exp": 8.96
+                }  
+            ],
+            "Equity - Momentum" : [
+                {
+                    "name": "Quant Focused Fund(G)",
+                    "rating": 5,
+                    "amount": 179350,
+                    "exp": 5.27
+                }  
+            ],    
+            "Equity - Quality" : [
+                {
+                    "name": "Axis Long Term Equity Fund-Reg(G)",
+                    "rating": 5,
+                    "amount": 107135,
+                    "exp": 3.15
+                }   
+            ],
+            "Equity - Sector/Thematic" : [
+                {
+                  "name": "ICICI Pru India Opp Fund(G)",
+                  "rating": 0,
+                  "amount": 191033,
+                  "exp": 5.61
+                },
+                {
+                  "name": "ICICI Pru Bharat 22 FOF-(G)",
+                  "rating": 5,
+                  "amount": 77751,
+                  "exp": 2.28
+                }
+            ]
+              
+        },
+
+        "Debt" : {
+            "Debt - Liquid & Overnight Funds" : [
+                {
+                  "name": "HDFC Liquid Fund(G)",
+                  "rating": 5,
+                  "amount": 54544,
+                  "exp": 1.60
+                },
+                {
+                  "name": "Bandhan Liquid Fund-Reg(G)",
+                  "rating": 5,
+                  "amount": 54558,
+                  "exp": 1.60
+                },
+                {
+                  "name": "HDFC Liquid Fund(G)",
+                  "rating": 4,
+                  "amount": 54544,
+                  "exp": 1.60
+                },
+                {
+                  "name": "Bandhan Liquid Fund-Reg(G)",
+                  "rating": 4,
+                  "amount": 54558,
+                  "exp": 1.60
+                },
+                {
+                  "name": "HDFC Liquid Fund(G)",
+                  "rating": 3,
+                  "amount": 54544,
+                  "exp": 1.60
+                },
+                {
+                  "name": "Bandhan Liquid Fund-Reg(G)",
+                  "rating": 3,
+                  "amount": 54558,
+                  "exp": 1.60
+                },
+                {
+                  "name": "HDFC Liquid Fund(G)",
+                  "rating": 2,
+                  "amount": 54544,
+                  "exp": 1.60
+                },
+                {
+                  "name": "Bandhan Liquid Fund-Reg(G)",
+                  "rating": 2,
+                  "amount": 54558,
+                  "exp": 1.60
+                },
+                {
+                  "name": "HDFC Liquid Fund(G)",
+                  "rating": 1,
+                  "amount": 54544,
+                  "exp": 1.60
+                },
+                {
+                  "name": "Bandhan Liquid Fund-Reg(G)",
+                  "rating": 1,
+                  "amount": 54558,
+                  "exp": 1.60
+                },
+                {
+                  "name": "Axis Midcap Fund-Reg(G)",
+                  "rating": 1,
+                  "amount": 32000,
+                  "exp": 0.50
+                },
+                {
+                  "name": "HDFC Liquid Fund(G)",
+                  "rating": 0,
+                  "amount": 54544,
+                  "exp": 1.60
+                },
+                {
+                  "name": "Bandhan Liquid Fund-Reg(G)",
+                  "rating": 0,
+                  "amount": 54558,
+                  "exp": 1.60
+                }
+            ],
+            "Debt - Short Duration/Banking & PSU/Corporate Bond" : [
+                {
+                  "name": "HDFC Short Term Debt Fund(G)",
+                  "rating": 5,
+                  "amount": 32082,
+                  "exp": 0.94
+                },
+                {
+                  "name": "Aditya Birla SL Corp Bond Fund(G)",
+                  "rating": 5,
+                  "amount": 50258,
+                  "exp": 1.48
+                },
+                {
+                  "name": "HDFC Short Term Debt Fund(G)",
+                  "rating": 4,
+                  "amount": 32082,
+                  "exp": 0.94
+                },
+                {
+                  "name": "Aditya Birla SL Corp Bond Fund(G)",
+                  "rating": 4,
+                  "amount": 50258,
+                  "exp": 1.48
+                }
+            ]              
+        },
+
+        "Gold" : {
+          "Gold and others" : [
+            {
+              "name": "LIC MF Gold ETF FoF(G)",
+              "rating": 5,
+              "amount": 54544,
+              "exp": 1.6
+            }
+          ],
+          "Others" : [
+            {
+              "name": "SBI Gold-Reg(G)",
+              "rating": 5,
+              "amount": 32082,
+              "exp": 0.9
+            }
+          ]
+        }
+    },
+
+    "SIP" : {
+      "Equity" : {
+          "Equity - Low Volatility" : [
+              {
+                  "name": "Motilal Oswal S&P BSE Low Volatility Index Fund-Reg(G)",
+                  "rating" : 4,
+                  "amount" : 1476,
+                  "exp": 4.34
+              }
+          ],
+          "Hybrid - Aggressive Hybrid Fund" : [
+              {
+                  "name": "Canara Rob Equity Hybrid Fund-Reg(G)",
+                  "rating": 4,
+                  "amount": 1097,
+                  "exp": 3.22
+              }
+          ],
+          "Equity - Blend" : [
+              {
+                "name": "Mirae Asset Tax Saver Fund-Reg(G)",
+                "rating": 5,
+                "amount": 779731,
+                "exp": 22.91
+              },
+              {
+                "name": "ICICI Pru LT Equity Fund (Tax Saving)(G)",
+                "rating": 3,
+                "amount": 129417,
+                "exp": 3.80
+              },
+              {
+                "name": "Nippon India Index Fund-Nifty 50 Plan(G)",
+                "rating": 3,
+                "amount": 213868,
+                "exp": 6.28
+              },
+              {
+                "name": "Union Flexi Cap Fund-Reg(G)",
+                "rating": 3,
+                "amount": 173779,
+                "exp": 5.11
+              },
+              {
+                "name": "Aditya Birla SL Flexi Cap Fund(G)",
+                "rating": 3,
+                "amount": 38758,
+                "exp": 1.14
+              },
+              {
+                "name": "Invesco India Tax Plan(G)",
+                "rating": 2,
+                "amount": 254520,
+                "exp": 7.48
+              },
+              {
+                "name": "Sundaram Large and Mid Cap Fund(G)",
+                "rating": 3,
+                "amount": 217407,
+                "exp": 6.39
+              },
+              {
+                "name": "Parag Parikh Flexi Cap Fund-Reg(G)",
+                "rating": 5,
+                "amount": 171322,
+                "exp": 5.03
+              },
+              {
+                "name": "ICICI Pru Large & Mid Cap Fund(IDCW)",
+                "rating": 3,
+                "amount": 115597,
+                "exp": 3.40
+              }
+          ],
+          "Equity - Mid/Small" : [
+              {
+                  "name": "Axis Midcap Fund-Reg(G)",
+                  "rating": 5,
+                  "amount": 304927,
+                  "exp": 8.96
+              }  
+          ],
+          "Equity - Momentum" : [
+              {
+                  "name": "Quant Focused Fund(G)",
+                  "rating": 0,
+                  "amount": 179350,
+                  "exp": 5.27
+              }  
+          ],    
+          "Equity - Quality" : [
+              {
+                  "name": "Axis Long Term Equity Fund-Reg(G)",
+                  "rating": 5,
+                  "amount": 107135,
+                  "exp": 3.15
+              }   
+          ],
+          "Equity - Sector/Thematic" : [
+              {
+                "name": "ICICI Pru India Opp Fund(G)",
+                "rating": 0,
+                "amount": 191033,
+                "exp": 5.61
+              },
+              {
+                "name": "ICICI Pru Bharat 22 FOF-(G)",
+                "rating": 0,
+                "amount": 77751,
+                "exp": 2.28
+              }
+          ]
+            
+      },
+
+      "Debt" : {
+          "Debt - Liquid & Overnight Funds" : [
+              {
+                "name": "HDFC Liquid Fund(G)",
+                "rating": 5,
+                "amount": 54544,
+                "exp": 1.60
+              },
+              {
+                "name": "Bandhan Liquid Fund-Reg(G)",
+                "rating": 5,
+                "amount": 54558,
+                "exp": 1.60
+              }
+          ],
+          "Debt - Short Duration/Banking & PSU/Corporate Bond" : [
+              {
+                "name": "HDFC Short Term Debt Fund(G)",
+                "rating": 5,
+                "amount": 32082,
+                "exp": 0.94
+              },
+              {
+                "name": "Aditya Birla SL Corp Bond Fund(G)",
+                "rating": 5,
+                "amount": 50258,
+                "exp": 1.48
+              }
+          ]              
+      },
+
+      "Gold" : {
+        "Gold and others" : [
+          {
+            "name": "LIC MF Gold ETF FoF(G)",
+            "rating": 5,
+            "amount": 54544,
+            "exp": 1.6
+          }
+        ],
+        "Others" : [
+          {
+            "name": "SBI Gold-Reg(G)",
+            "rating": 5,
+            "amount": 32082,
+            "exp": 0.9
+          }
+        ]
+      }
+    },
+
+    "FISelect" : {
+      "Equity" : {
+          "Equity - Low Volatility" : [
+              {
+                  "name": "HDFC Short Term Debt Fund(G)",
+                  "rating" : 5,
+                  "amount" : 32082,
+                  "exp": 0.9
+              },
+              {
+                "name": "Aditya Birla SL Corp Bond Fund(G)",
+                "rating" : 5,
+                "amount" : 50258,
+                "exp": 1.4
+              },
+              {
+                "name": "Axis Long Term Equity Fund-Reg(G)",
+                "rating" : 4,
+                "amount" : 107135,
+                "exp": 3.1
+              }
+          ]
+      },
+
+      "Debt" : {
+          "Debt - Liquid & Overnight Funds" : [
+            {
+              "name": "Bandhan Liquid Fund-Reg(G)",
+              "rating": 5,
+              "amount": 54558,
+              "exp": 1.60
+            },  
+            {
+                "name": "HDFC Liquid Fund(G)",
+                "rating": 4,
+                "amount": 32082,
+                "exp": 0.9
+              }
+          ]            
+      }
+    },
+
+    "PortfolioExpense" : {
+      "Equity" : {
+          "Equity - Low Volatility" : [
+              {
+                  "name": "Motilal Oswal S&P BSE Low Volatility Index Fund-Reg(G)",
+                  "rating" : 5,
+                  "amount" : 147628,
+                  "ratio" : 1.2,
+                  "exp": 4.34
+              }
+          ],
+          "Hybrid - Aggressive Hybrid Fund" : [
+              {
+                  "name": "Canara Rob Equity Hybrid Fund - Reg(G)",
+                  "rating": 4,
+                  "amount": 109721,
+                  "ratio" : 1.7,
+                  "exp": 3.22
+              }
+          ],
+          "Equity - Blend" : [
+              {
+                "name": "Mirae Asset Tax Saver Fund-Reg(G)",
+                "rating": 5,
+                "amount": 779731,
+                "ratio" : 1.5,
+                "exp": 22.91
+              },
+              {
+                "name": "ICICI Pru LT Equity Fund (Tax Saving)(G)",
+                "rating": 3,
+                "amount": 129417,
+                "ratio" : 1.7,
+                "exp": 3.80
+              },
+              {
+                "name": "Nippon India Index Fund-Nifty 50 Plan(G)",
+                "rating": 3,
+                "amount": 213868,
+                "ratio" : 0.5,
+                "exp": 6.28
+              },
+              {
+                "name": "Union Flexi Cap Fund-Reg(G)",
+                "rating": 3,
+                "amount": 173779,
+                "ratio" : 2.1,
+                "exp": 5.11
+              },
+              {
+                "name": "Aditya Birla SL Flexi Cap Fund(G)",
+                "rating": 3,
+                "amount": 38758,
+                "ratio" : 1.7,
+                "exp": 1.14
+              },
+              {
+                "name": "Invesco India Tax Plan(G)",
+                "rating": 2,
+                "amount": 254520,
+                "ratio" : 1.9,
+                "exp": 7.48
+              },
+              {
+                "name": "Sundaram Large and Mid Cap Fund(G)",
+                "rating": 3,
+                "amount": 217407,
+                "ratio" : 1.8,
+                "exp": 6.39
+              },
+              {
+                "name": "Parag Parikh Flexi Cap Fund-Reg(G)",
+                "rating": 5,
+                "amount": 171322,
+                "ratio" : 1.4,
+                "exp": 5.03
+              },
+              {
+                "name": "ICICI Pru Large & Mid Cap Fund(IDCW)",
+                "rating": 3,
+                "amount": 115597,
+                "ratio" : 1.8,
+                "exp": 3.40
+              }
+          ],
+          "Equity - Mid/Small" : [
+              {
+                  "name": "Axis Midcap Fund-Reg(G)",
+                  "rating": 5,
+                  "amount": 304927,
+                  "ratio" : 1.6,
+                  "exp": 8.96
+              }  
+          ],
+          "Equity - Momentum" : [
+              {
+                  "name": "Quant Focused Fund(G)",
+                  "rating": 5,
+                  "amount": 179350,
+                  "ratio" : 2.3,
+                  "exp": 5.27
+              }  
+          ],    
+          "Equity - Quality" : [
+              {
+                  "name": "Axis Long Term Equity Fund-Reg(G)",
+                  "rating": 5,
+                  "amount": 107135,
+                  "ratio" : 1.5,
+                  "exp": 3.15
+              }   
+          ],
+          "Equity - Sector/Thematic" : [
+              {
+                "name": "ICICI Pru India Opp Fund(G)",
+                "rating": 5,
+                "amount": 191033,
+                "ratio" : 1.7,
+                "exp": 5.61
+              },
+              {
+                "name": "ICICI Pru Bharat 22 FOF-(G)",
+                "rating": 5,
+                "amount": 77751,
+                "ratio" : 0.9,
+                "exp": 2.28
+              }
+          ]
+            
+      },
+
+      "Debt" : {
+          "Debt - Liquid & Overnight Funds" : [
+              {
+                "name": "HDFC Liquid Fund(G)",
+                "rating": 5,
+                "amount": 54544,
+                "ratio" : 0.3,
+                "exp": 1.60,
+                "ytm": 7.6
+              },
+              {
+                "name": "Bandhan Liquid Fund-Reg(G)",
+                "rating": 5,
+                "amount": 54558,
+                "ratio" : 0.5,
+                "exp": 1.60,
+                "ytm": 7.8
+              }
+          ],
+          "Debt - Short Duration/Banking & PSU/Corporate Bond" : [
+              {
+                "name": "HDFC Short Term Debt Fund(G)",
+                "rating": 5,
+                "amount": 32082,
+                "ratio" : 0.7,
+                "exp": 0.94,
+                "ytm": 7.7
+              },
+              {
+                "name": "Aditya Birla SL Corp Bond Fund(G)",
+                "rating": 5,
+                "amount": 50258,
+                "ratio" : 0.5,
+                "exp": 1.48,
+                "ytm": 7.6
+              }
+          ]              
+      }
+    }
+
+}
